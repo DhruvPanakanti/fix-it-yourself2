@@ -1,0 +1,17 @@
+li{
+    font-size:200%;
+    color: lightsalmon;
+    background-color:lightgreen ;
+    border: solid;
+    border-color: lightslategrey;
+    
+}
+h1{
+    color: coral;
+    background-color: lightgreen;
+}
+p{
+    font-size:150%  ;
+    color: coral;
+    background-color:lightgreen;
+}
